@@ -58,3 +58,6 @@ function update_like(msg_id){
             like:new_likes
       });
 }
+function back() {
+      window.location="kwitter_room.html"
+}
